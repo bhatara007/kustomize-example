@@ -7,4 +7,4 @@ resources:
 namespace: duke-training
 images:
 - name: asia.gcr.io/poc-innovation-iot/gitlab-runner-example-duke
-  newTag: c7aca8e0
+  newTag: b4426774
