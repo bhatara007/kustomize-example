@@ -6,7 +6,7 @@ metadata:
     app.kubernetes.io/name: helloworld-duke
     app.kubernetes.io/instance: helloworld-duke
 spec:
-  replicas: 2
+  replicas: 1
   selector:
     matchLabels:
       app.kubernetes.io/name: helloworld-duke
